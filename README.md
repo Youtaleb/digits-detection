@@ -1,7 +1,7 @@
 # digits-detection
 This function takes an image containing a number and outputs a set of images
 containing each digit included in the image inputed.
-If the input image is of the following form :
+If the input image is of the following form   
     ---------------  
     | 2  3  9  5  |  
     ---------------  
